@@ -1,6 +1,4 @@
-scikit-learn
 streamlit
+scikit-learn
 pandas
-pickle
-base64
-os
+pycryptodome
