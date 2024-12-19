@@ -1,0 +1,6 @@
+scikit-learn
+streamlit
+pandas
+pickle
+base64
+os
